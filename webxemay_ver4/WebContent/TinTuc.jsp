@@ -2,7 +2,7 @@
 <!DOCTYPE html>
 <html lang="zxx">
    <head>
-      <title>Chi tiet</title>
+      <title>Tin tức nổi bật</title>
       <!--meta tags -->
      <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
       <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -41,98 +41,55 @@
          <div>
            	 <jsp:include page="header/header_top.jsp"></jsp:include>
          </div>
-       	<!-- banner -->
-      <div class="inner_page-banner one-img">
-      </div>
-      <!--//banner -->
-     	 <h3 class="title ChiTiet-title text-center mb-lg-3 mb-md-4  mb-sm-4 mb-3"><u>MSX 125CC</u></h3>
-     	 <!-- main -->
-      	<div class="row">
-                  <div class="col-lg-4 single-right-left ">
-                     <div class="grid images_3_of_2">
-                        <div class="flexslider1">
-                           
-                           <div class="clearfix"></div>
-                        <div class="flex-viewport" style="overflow: hidden; position: relative;">
-                        <ul class="slides" style="width: 1000%; transition-duration: 0s; transform: translate3d(-290px, 0px, 0px);">
-                        <li data-thumb="images/f3.jpg" class="clone" style="width: 290px; float: left; display: block;">
-                                 <div class="thumb-image"> <img src="images/f3.jpg" data-imagezoom="true" class="img-fluid" alt=" "> </div>
-                              </li>
-                              <li data-thumb="images/f2.jpg" class="flex-active-slide" style="width: 290px; float: left; display: block;">
-                                 <div class="thumb-image"> <img src="images/f2.jpg" data-imagezoom="true" class="img-fluid" alt=" "> </div>
-                              </li>
-                              <li data-thumb="images/f1.jpg" style="width: 290px; float: left; display: block;" class="">
-                                 <div class="thumb-image"> <img src="images/f1.jpg" data-imagezoom="true" class="img-fluid" alt=" "> </div>
-                              </li>
-						</ul>
-						</div>
-                     	</div>
-                 	 </div>
-                  </div>
-                   <div class="col-lg-8 single-right-left simpleCart_shelfItem">
-                    <div class="section-content">
-					    <h2 class="product-detail-title">Thông số kỹ thuật</h2>
-					    <div class="wrap-spec">
-					        <table cellpadding="0" cellspacing="0" border="0">
-					                <tbody><tr>
-					                  <td><b>Khối lượng bản thân</b></td>
-					                  <td>104 kg</td>
-					                </tr>
-					                <tr>
-					                  <td><b>Khoảng cách trục bánh xe</b></td>
-					                  <td>1.199mm</td>
-					                </tr>
-					                <tr>
-					                  <td><b>Dung tích bình xăng</b></td>
-					                  <td>5,7 lít</td>
-					                </tr>
-					                <tr>
-					                  <td><b>Kích cỡ lốp trước/ sau</b></td>
-					                  <td>Trước: 120/70-12 51L Không săm<br>Sau: 130/70-12 56L Không săm</td>
-					                </tr>
-					                <tr>
-					                  <td><b>Phuộc trước</b></td>
-					                  <td>Giảm xóc hành trình ngược</td>
-					                </tr>
-					                <tr>
-					                  <td><b>Loại động cơ</b></td>
-					                  <td>PGM-FI, 4 kỳ, 2 van, xy-lanh đơn, côn 4 số, làm mát bằng không khí</td>
-					                </tr>
-					                <tr>
-					                  <td><b>Đường kính x hành trình pít-tông</b></td>
-					                  <td>52,4mm x 57,9mm</td>
-					                </tr>
-					                <tr>
-					                  <td><b>Tỉ số nén</b></td>
-					                  <td>9,3:1</td>
-					                </tr>
-					                <tr>
-					                  <td><b>Công suất tối đa</b></td>
-					                  <td>6,9 kW/7.000 vòng/phút</td>
-					                </tr>
-					                <tr>
-					                  <td><b>Mô-men cực đại</b></td>
-					                  <td>10,6 Nm/5.500 vòng/phút</td>
-					                </tr>
-					                <tr>
-					                  <td><b>Dung tích nhớt máy</b></td>
-					                  <td>0,9 lít khi thay dầu<br>1,1 lít khi rã máy</td>
-					                </tr>
-					                <tr>
-					                  <td><b>Loại truyền động</b></td>
-					                  <td>Côn tay 4 số</td>
-					                </tr>
-					                <tr>
-					                  <td><b>Hệ thống khởi động</b></td>
-					                  <td>Điện</td>
-					                </tr>
-					        </tbody></table>
-					    </div>
- 					 </div> 
-                  </div>
-        	</div>
-        <!-- Bai viet lien quan -->
-        <div class="section sectionMain searchResults">
+         <!-- main -->
+		<div class="text-center">
+			<div class="page-heading bao-hanh">
+				<h2>TIN TỨC NỔI BẬT</h2>
+			</div>
+		</div>
+		<div class="row">
+			<div class="col-lg-6 col-md-6 block">
+				<div class="image">
+					<img class="tablet-img" id="" src="https://hondaxemay.com.vn/wp-content/uploads/2018/10/Honda-Logo_600x500_acf_cropped.jpg" alt="baotri-block1" title="baotri-block1">							</div>
+				<div class="desc">
+					<p>Honda Việt Nam công bố kết quả hoạt động kinh doanh 6 tháng đầu năm</p> <i class="fa fa-chevron-right"></i>
+				</div>
+			</div>
+			<div class="col-lg-6 col-md-6 block">
+				<div class="image">
+					<img class="tablet-img" id="" src="https://hondaxemay.com.vn/wp-content/uploads/2018/10/fbpost_BP_600x500_acf_cropped.jpg" alt="baotri-block2" title="baotri-block2">							</div>
+				<div class="desc">
+					<p>Honda Việt Nam giới thiệu Honda VISION phiên bản mới</p> <i class="fa fa-chevron-right"></i>
+				</div>
+			</div>
+		</div>
+		<div class="row">
+			<div class="col-lg-6 col-md-6 block">
+				<div class="image">
+					<img class="tablet-img" id="" src="https://hondaxemay.com.vn/wp-content/uploads/2018/10/768x582_honda_768x581_acf_cropped_600x500_acf_cropped.jpg" alt="baotri-block3" title="baotri-block3">							</div>
+				<div class="desc">
+					<p>“Trả thảnh thơi – Lái tuyệt vời” cùng Honda nhận quà</p> <i class="fa fa-chevron-right"></i>
+				</div>
+			</div>
+			<div class="col-lg-6 col-md-6 block">
+				<div class="image">
+					<img class="tablet-img" id="" src="https://hondaxemay.com.vn/wp-content/uploads/2018/09/Honda-Logo_600x500_acf_cropped.jpg" alt="Alt Sử dụng phụ tùng chính hiệu" title="Sử dụng phụ tùng chính hiệu">							</div>
+				<div class="desc">
+					<p>Honda Việt Nam công bố Kết quả kinh doanh tháng 6</p> <i class="fa fa-chevron-right"></i>
+				</div>
+			</div>
+		</div>
+		<div class="row">
+			<div class="col-lg-6 col-md-6 block">
+				<div class="image">
+					<img class="tablet-img" id="" src="https://hondaxemay.com.vn/wp-content/uploads/2018/09/Các-em-học-sinh-chung-niềm-vui-nhận-món-quà-đầu-năm-học-mới_600x500_acf_cropped.jpg" alt="baotri-block6" title="baotri-block6">							</div>
+				<div class="desc">
+					<p>Lễ phát động trao tặng Mũ bảo hiểm cho học sinh</p> <i class="fa fa-chevron-right"></i>
+				</div>
+			</div>
+		</div>
+		<!-- Bai viet lien quan -->
+		<div class="section sectionMain searchResults">
 			<form action="" method="post" class="InlineModForm" data-cookiename="" data-controls="#InlineModControls" data-imodoptions="#ModerationSelect option">
 				<ol class="searchResultsList">
 					<li id="thread-2812439" class="searchResult thread primaryContent" data-author="TTKM">
@@ -256,11 +213,11 @@
 				</ol>
 			</form>
 		</div>
-        <footer>
+         <!-- //main -->
+          <footer>
       		<jsp:include page="footer/footerlevel1.jsp"></jsp:include>
       	</footer>
-      <!-- //Modal 1-->
-      <!--js working-->
+      	<!--js working-->
       <script src='js/jquery-2.2.3.min.js'></script>
       <!--//js working-->
       
@@ -286,38 +243,7 @@
          
          });
       </script>
-     <!--  // responsiveslides banner	 
-      slider flexisel -->
-      
-      <script src="js/jquery.flexisel.js"></script>
-      <script>
-         $(window).load(function() {
-         	$("#flexiselDemo1").flexisel({
-         		visibleItems: 3,
-         		animationSpeed: 3000,
-         		autoPlay:true,
-         		autoPlaySpeed: 2000,    		
-         		pauseOnHover: true,
-         		enableResponsiveBreakpoints: true,
-         		responsiveBreakpoints: { 
-         			portrait: { 
-         				changePoint:480,
-         				visibleItems: 1
-         			}, 
-         			landscape: { 
-         				changePoint:640,
-         				visibleItems:2
-         			},
-         			tablet: { 
-         				changePoint:768,
-         				visibleItems: 2
-         			}
-         		}
-         	});
-         	
-         });
-      </script>
-     <script src="js/move-top.js"></script>
+      <script src="js/move-top.js"></script>
       <script src="js/easing.js"></script>
       <script>
          jQuery(document).ready(function ($) {
@@ -346,19 +272,7 @@
          
          });
       </script>
-      <!-- FlexSlider -->
-      <script src="js/jquery.flexslider.js"></script>
-      <script>
-         // Can also be used with $(document).ready()
-         $(window).load(function () {
-         	$('.flexslider1').flexslider({
-         		animation: "slide",
-         		controlNav: "thumbnails"
-         	});
-         });
-      </script>
-      <!-- //FlexSlider-->
-      <!-- start-smoth-scrolling -->
+       <!-- start-smoth-scrolling -->
       <script src="js/move-top.js"></script>
       <script src="js/easing.js"></script>
       <script>
@@ -392,5 +306,5 @@
       bootstrap working -->
       <script src="js/bootstrap.min.js"></script>
      <!--  //bootstrap working -->
-   </body>
+      	 </body>
 </html>

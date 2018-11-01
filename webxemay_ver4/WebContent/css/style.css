@@ -169,7 +169,8 @@ margin: 0px;
     border: 1px solid #fff;
 }
 .search-right button:hover{background: hsl(215,34%, 12%);
-                    color: hsla(180,100%,55%,1);}
+                   
+}
 .navbar-light .navbar-nav .nav-link {
     color: hsl(215, 34%, 12%);
     font-size: 15px;
@@ -1826,67 +1827,38 @@ ol {
 	color: hsl(215, 34%, 15%);
 }
 /*--Bao hanh - bao tri--*/
-@media only screen and (max-width: 1024px)
-#bao-hanh-bao-tri .block-wrp {
-    padding-bottom: 20px;
-}
-#bao-hanh-bao-tri .block-wrp {
-    padding-bottom: 40px;
-}
-a, a:link, a:hover, a:focus, a:active, a:visited {
-    text-decoration: none;
-}
-@media only screen and (max-width: 767px)
-#bao-hanh-bao-tri {
-    padding: 55px 10px 0 10px;
-}
-#bao-hanh-bao-tri {
-    max-width: 1200px;
-    padding-top: 73px;
-}
+
+
 .center-content {
     width: 100%;
     max-width: 1180px;
     margin: 0 auto;
+   
 }
-#bao-hanh-bao-tri .block-wrp .block .image img {
-    display: block;
-    width: 100%;
-    -webkit-transition: 0.3s linear;
-    -moz-transition: 0.3s linear;
-    -ms-transition: 0.3s linear;
-    -o-transition: 0.3s linear;
-    transition: 0.3s linear;
-}
-@media only screen and (max-width: 767px)
-#bao-hanh-bao-tri .block-wrp .block .desc {
-    padding: 14px 15px 17px 15px;
-}
-#bao-hanh-bao-tri .block-wrp .block .desc {
+
+ .desc {
     width: calc(100% - 20px);
     position: absolute;
     bottom: 0;
     left: 10px;
-    background: rgba(0, 0, 0, 0.8);
+    background: hsl(215, 34%, 12%);
     padding: 14px 35px 17px 20px;
-}
-@media only screen and (max-width: 767px)
-#bao-hanh-bao-tri .block-wrp .block .desc p {
-    font-size: 13px;
-}
-#bao-hanh-bao-tri .block-wrp .block .desc p {
-    font-size: 15px;
+    opacity: 0.5;
     color: #fff;
-    line-height: 18px;
 }
-#bao-hanh-bao-tri .block-wrp .block .image img {
-    display: block;
-    width: 100%;
-    -webkit-transition: 0.3s linear;
-    -moz-transition: 0.3s linear;
-    -ms-transition: 0.3s linear;
-    -o-transition: 0.3s linear;
-    transition: 0.3s linear;
+.desc:hover{
+	background: hsl(217, 34%, 12%);
+	 color: hsla(180,100%,55%,1);
+}
+.block{
+	padding: 50px;
+	text-align: center;
+}
+.tablet-img:hover{
+	 transform: scaleX(1.2);
+}
+.page-heading .bao-hanh h2{
+	margin-top: 150px;
 }
 /*--//responsive--*/
 

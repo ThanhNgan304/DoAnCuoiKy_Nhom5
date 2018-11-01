@@ -78,7 +78,7 @@
 			<div class="more kc">
 				<p class="name">PCX HYBRID</p>									
 				<p class="price">Giá từ <b>89.990.000 VNĐ</b></p>
-				<a class="btn" href="#">
+				<a class="btn" href="ChiTietSP.jsp">
 					<img src="https://hondaxemay.com.vn/wp-content/themes/honda/assets/images/btn/btn-more.png" alt="">
 				</a>
 			</div>
@@ -90,7 +90,7 @@
 			<div class="more kc">
 				<p class="name">Air Blade 125cc</p>									
 				<p class="price">Giá từ <b>37.990.000 VNĐ</b></p>
-				<a class="btn" href="https://hondaxemay.com.vn/san-pham/air-blade-125cc/">
+				<a class="btn" href="ChiTietSP.jsp">
 					<img src="https://hondaxemay.com.vn/wp-content/themes/honda/assets/images/btn/btn-more.png" alt="">
 				</a>
 			</div>
@@ -102,7 +102,7 @@
 			<div class="more kc">
 				<p class="name">PCX HYBRID</p>									
 				<p class="price">Giá từ <b>89.990.000 VNĐ</b></p>
-				<a class="btn" href="#">
+				<a class="btn" href="ChiTietSP.jsp">
 					<img src="https://hondaxemay.com.vn/wp-content/themes/honda/assets/images/btn/btn-more.png" alt="">
 				</a>
 			</div>
@@ -114,7 +114,7 @@
 			<div class="more kc">
 				<p class="name">Air Blade 125cc</p>									
 				<p class="price">Giá từ <b>37.990.000 VNĐ</b></p>
-				<a class="btn" href="https://hondaxemay.com.vn/san-pham/air-blade-125cc/">
+				<a class="btn" href="ChiTietSP.jsp">
 					<img src="https://hondaxemay.com.vn/wp-content/themes/honda/assets/images/btn/btn-more.png" alt="">
 				</a>
 			</div>
@@ -126,7 +126,7 @@
 			<div class="more kc">
 				<p class="name">PCX HYBRID</p>									
 				<p class="price">Giá từ <b>89.990.000 VNĐ</b></p>
-				<a class="btn" href="#">
+				<a class="btn" href="ChiTietSP.jsp">
 					<img src="https://hondaxemay.com.vn/wp-content/themes/honda/assets/images/btn/btn-more.png" alt="">
 				</a>
 			</div>
@@ -138,7 +138,7 @@
 			<div class="more kc">
 				<p class="name">Air Blade 125cc</p>									
 				<p class="price">Giá từ <b>37.990.000 VNĐ</b></p>
-				<a class="btn" href="https://hondaxemay.com.vn/san-pham/air-blade-125cc/">
+				<a class="btn" href="ChiTietSP.jsp">
 					<img src="https://hondaxemay.com.vn/wp-content/themes/honda/assets/images/btn/btn-more.png" alt="">
 				</a>
 			</div>
@@ -150,7 +150,7 @@
 			<div class="more kc">
 				<p class="name">PCX HYBRID</p>									
 				<p class="price">Giá từ <b>89.990.000 VNĐ</b></p>
-				<a class="btn" href="#">
+				<a class="btn" href="ChiTietSP.jsp">
 					<img src="https://hondaxemay.com.vn/wp-content/themes/honda/assets/images/btn/btn-more.png" alt="">
 				</a>
 			</div>
@@ -162,7 +162,7 @@
 			<div class="more kc">
 				<p class="name">Air Blade 125cc</p>									
 				<p class="price">Giá từ <b>37.990.000 VNĐ</b></p>
-				<a class="btn" href="https://hondaxemay.com.vn/san-pham/air-blade-125cc/">
+				<a class="btn" href="ChiTietSP.jsp">
 					<img src="https://hondaxemay.com.vn/wp-content/themes/honda/assets/images/btn/btn-more.png" alt="">
 				</a>
 			</div>
@@ -198,9 +198,7 @@
 						<span class="mobile-visible">“Trả thảnh thơi – Lái tuyệt vời” cùng…</span>
 					</a>
 				</div>
-		     </div>
-		     <div class="col-lg-6 col-md-6 col-sm-12 small-row small-row-2 clearfix">
-		        <img class="gach-ngang" src="https://hondaxemay.com.vn/wp-content/themes/honda//assets/images/img/gach-ngang.png" alt="">
+				 <img class="gach-ngang" src="https://hondaxemay.com.vn/wp-content/themes/honda//assets/images/img/gach-ngang.png" alt="">
 			    <div class="small-box" data-post-id="17431" data-link-youtube="">
 					<a href="https://hondaxemay.com.vn/tin-tuc/honda-viet-nam-cong-bo-ket-qua-kinh-doanh-thang-8-2018/">
 						<img class="normal-image" data-src="https://hondaxemay.com.vn/wp-content/uploads/2018/09/Honda-Logo_600x500_acf_cropped.jpg" src="https://hondaxemay.com.vn/wp-content/uploads/2018/09/Honda-Logo_600x500_acf_cropped.jpg" alt="Honda Việt Nam công bố Kết quả kinh doanh tháng 8/2018">
@@ -215,7 +213,7 @@
 						<span class="mobile-visible">Lễ phát động trao tặng Mũ bảo hiểm…</span>
 					</a>
 				</div>
-	     	</div>
+		     </div>
 	  	</div>
   	</div>
   	 <!--//Customers Review -->

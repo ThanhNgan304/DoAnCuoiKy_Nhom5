@@ -24,7 +24,7 @@
                      <div class="cart-icons">
                         <ul>
                            <li>
-                             <a href="#">Đăng nhập</a>
+                             <a href="DangNhap.jsp">Đăng nhập</a>
                            </li>
                            <li>
                               <!-- <button type="button" data-toggle="modal" data-target="#exampleModal"> <span class="far fa-user"></span></button> -->
@@ -42,27 +42,27 @@
                <div class="collapse navbar-collapse justify-content-center" id="navbarSupportedContent">
                   <ul class="navbar-nav " style="boder-style: none">
                      <li class="nav-item active">
-                        <a class="nav-link" href="index.html">Trang chủ <span class="sr-only">(current)</span></a>
+                        <a class="nav-link" href="mau.jsp">Trang chủ <span class="sr-only">(current)</span></a>
                      </li>
                      <li class="nav-item dropdown">
                         <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown1" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
                         Danh mục giá thành
                         </a>
                         <div class="dropdown-menu" aria-labelledby="navbarDropdown">
-                           <a class="nav-link" href="#">Dưới 20 triệu VND</a>
-                           <a class="nav-link " href="#">20-40 triệu VND</a>
-                           <a class="nav-link " href="#">40-80 triệu VND</a>
-                           <a class="nav-link " href="#">Trên 80 triệu VND</a>
+                           <a class="nav-link" href="DanhMucDuoi20.jsp">Dưới 20 triệu VND</a>
+                           <a class="nav-link " href="DanhMuc20_40.jsp">20-40 triệu VND</a>
+                           <a class="nav-link " href="DanhMuc40_80.jsp">40-80 triệu VND</a>
+                           <a class="nav-link " href="DanhMucTren80.jsp">Trên 80 triệu VND</a>
                         </div>
                      </li>
                      <li class="nav-item">
-                        <a href="#" class="nav-link">Bảo hành-Bảo trì</a>
+                        <a href="BaoHanhBaoTri.jsp" class="nav-link">Bảo hành-Bảo trì</a>
                      </li>
                      <li class="nav-item">
-                        <a href="#" class="nav-link">Tin tức</a>
+                        <a href="TinTuc.jsp" class="nav-link">Tin tức</a>
                      </li>
                      <li class="nav-item">
-                        <a href="#" class="nav-link">Công nghệ</a>
+                        <a href="CongNghe.jsp" class="nav-link">Công nghệ</a>
                      </li>
                   </ul>
                </div>

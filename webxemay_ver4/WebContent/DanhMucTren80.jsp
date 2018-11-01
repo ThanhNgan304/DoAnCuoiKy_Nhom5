@@ -2,13 +2,20 @@
 <!DOCTYPE html>
 <html lang="zxx">
    <head>
-      <title>Xe so</title>
+      <title>Danh sách xe máy trên 80 triệu VNĐ</title>
       <!--meta tags -->
      <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
       <meta name="viewport" content="width=device-width, initial-scale=1">
       <meta name="keywords" content="" />
-      
-    
+      <!-- <script>
+         addEventListener("load", function () {
+         	setTimeout(hideURLbar, 0);
+         }, false);
+         
+         function hideURLbar() {
+         	window.scrollTo(0, 1);
+         } 
+      </script>-->
       <!--//meta tags ends here-->
       <!--booststrap-->
       <link href="css/bootstrap.min.css" rel="stylesheet" type="text/css" media="all">
@@ -20,10 +27,6 @@
       <link rel="stylesheet" href="css/flexslider.css" type="text/css" media="all" />
       <!--flexs slider-->
       <link href="css/JiSlider.css" rel="stylesheet">
-      <!--Shoping cart-->
-      <!-- <link rel="stylesheet" href="css/shop.css" type="text/css" />
- -->      <!--//Shoping cart-->
-      <!--stylesheets-->
       <link href="css/style.css" rel='stylesheet' type='text/css' media="all">
       <!--//stylesheets-->
       <link href="//fonts.googleapis.com/css?family=Sunflower:500,700" rel="stylesheet">
@@ -42,45 +45,18 @@
 	<!-- //main-->
 	<!-- CAC SAN PHAM -->
 	 <div class="container py-lg-5 py-md-5 py-sm-4 py-4">
-            <h3 class="title text-center mb-lg-3 mb-md-4  mb-sm-4 mb-3"><u>Lựa chọn phong cách riêng của bạn</u></h3>
+            <h3 class="title text-center mb-lg-3 mb-md-4  mb-sm-4 mb-3"><u>TRÊN 80 TRIỆU VNĐ</u></h3>
             <div class="text-center mb-lg-3 mb-md-4  mb-sm-4 mb-3">
-            	<nav class="navbar navbar-expand-lg navbar-light">
-            	<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent2" aria-controls="navbarSupportedContent2" aria-expanded="false" aria-label="Toggle navigation">
-               		<span class="navbar-toggler-icon"></span>
-               </button>
-               <div class="collapse navbar-collapse justify-content-center" id="navbarSupportedContent2">
-                  <ul class="navbar-nav ">
-                     <li class="nav-item ">
-                        <a class="nav-link" href="mau.jsp">Tất cả</a>
-                     </li>
-                     <li class="nav-item ">
-                        <a class="nav-link" href="XeTayGa.jsp">Xe tay ga
-                        
-                        </a>
-                       
-                     </li>
-                     <li class="nav-item active">
-                        <a href="XeSo.jsp" class="nav-link">Xe số</a>
-                     </li>
-                     <li class="nav-item">
-                        <a href="XeConTay.jsp" class="nav-link">Xe côn tay</a>
-                     </li>
-                     <li class="nav-item">
-                        <a href="XeMoTo.jsp" class="nav-link">Xe moto</a>
-                     </li>
-                  </ul>
-               </div>
-            </nav>
             </div>
 
       <div class="row banner-below-w3l">
 		<div class="col-lg-3 col-md-6 col-sm-6 col-xs-12 item">	
 			<div class="item-hovered">
-				<img class="img-hovered" src="https://hondaxemay.com.vn/wp-content/uploads/2018/07/Side-view_165x205px_165x205_acf_cropped.png" alt="Wave Alpha 110cc">
+				<img class="img-hovered" src="https://hondaxemay.com.vn/wp-content/uploads/2018/05/165X205-CB500F-1.png" alt="CB500F">
 			<div class="more kc">
-				<p class="name">Wave Alpha 110cc</p>							
-					<p class="price">Giá từ <b>17.790.000 VNĐ</b></p>
-				<a class="btn" href="https://hondaxemay.com.vn/san-pham/wave-alpha-110cc/">
+				<p class="name">CB500F</p>					
+				<p class="price">Giá từ <b>172.000.000 VNĐ</b></p>
+				<a class="btn btn-xemchitiet" href="ChiTietSP.jsp">
 					<img src="https://hondaxemay.com.vn/wp-content/themes/honda/assets/images/btn/btn-more.png" alt="">
 				</a>
 			</div>
@@ -88,11 +64,11 @@
 		</div>
 		<div class="col-lg-3 col-md-6 col-sm-6 col-xs-12 item">	
 			<div class="item-hovered">
-				<img class="img-hovered" src="https://hondaxemay.com.vn/wp-content/uploads/2018/04/165X205_165x205_acf_cropped.png" alt="Future 125cc">
+				<img class="img-hovered" src="https://hondaxemay.com.vn/wp-content/uploads/2018/05/165X205-CB500F-1.png" alt="CB500F">
 			<div class="more kc">
-				<p class="name">Future 125cc</p>								
-				<p class="price">Giá từ <b>30.190.000 VNĐ</b></p>
-				<a class="btn" href="https://hondaxemay.com.vn/san-pham/future-125cc/">
+				<p class="name">CB500F</p>					
+				<p class="price">Giá từ <b>172.000.000 VNĐ</b></p>
+				<a class="btn btn-xemchitiet" href="ChiTietSP.jsp">
 					<img src="https://hondaxemay.com.vn/wp-content/themes/honda/assets/images/btn/btn-more.png" alt="">
 				</a>
 			</div>
@@ -100,11 +76,11 @@
 		</div>
 		<div class="col-lg-3 col-md-6 col-sm-6 col-xs-12 item">	
 			<div class="item-hovered">
-				<img class="img-hovered" src="https://hondaxemay.com.vn/wp-content/uploads/2018/07/Side-view_165x205px_165x205_acf_cropped.png" alt="Wave Alpha 110cc">
+				<img class="img-hovered" src="https://hondaxemay.com.vn/wp-content/uploads/2018/05/165X205-CB500F-1.png" alt="CB500F">
 			<div class="more kc">
-				<p class="name">Wave Alpha 110cc</p>							
-					<p class="price">Giá từ <b>17.790.000 VNĐ</b></p>
-				<a class="btn" href="ChiTietSP.jsp">
+				<p class="name">CB500F</p>					
+				<p class="price">Giá từ <b>172.000.000 VNĐ</b></p>
+				<a class="btn btn-xemchitiet" href="ChiTietSP.jsp">
 					<img src="https://hondaxemay.com.vn/wp-content/themes/honda/assets/images/btn/btn-more.png" alt="">
 				</a>
 			</div>
@@ -112,11 +88,11 @@
 		</div>
 		<div class="col-lg-3 col-md-6 col-sm-6 col-xs-12 item">	
 			<div class="item-hovered">
-				<img class="img-hovered" src="https://hondaxemay.com.vn/wp-content/uploads/2018/04/165X205_165x205_acf_cropped.png" alt="Future 125cc">
+				<img class="img-hovered" src="https://hondaxemay.com.vn/wp-content/uploads/2018/05/165X205-CB500F-1.png" alt="CB500F">
 			<div class="more kc">
-				<p class="name">Future 125cc</p>								
-				<p class="price">Giá từ <b>30.190.000 VNĐ</b></p>
-				<a class="btn" href="ChiTietSP.jsp">
+				<p class="name">CB500F</p>					
+				<p class="price">Giá từ <b>172.000.000 VNĐ</b></p>
+				<a class="btn btn-xemchitiet" href="ChiTietSP.jsp">
 					<img src="https://hondaxemay.com.vn/wp-content/themes/honda/assets/images/btn/btn-more.png" alt="">
 				</a>
 			</div>
@@ -124,11 +100,11 @@
 		</div>
 		<div class="col-lg-3 col-md-6 col-sm-6 col-xs-12 item">	
 			<div class="item-hovered">
-				<img class="img-hovered" src="https://hondaxemay.com.vn/wp-content/uploads/2018/07/Side-view_165x205px_165x205_acf_cropped.png" alt="Wave Alpha 110cc">
+				<img class="img-hovered" src="https://hondaxemay.com.vn/wp-content/uploads/2018/05/165X205-CB500F-1.png" alt="CB500F">
 			<div class="more kc">
-				<p class="name">Wave Alpha 110cc</p>							
-					<p class="price">Giá từ <b>17.790.000 VNĐ</b></p>
-				<a class="btn" href="ChiTietSP.jsp">
+				<p class="name">CB500F</p>					
+				<p class="price">Giá từ <b>172.000.000 VNĐ</b></p>
+				<a class="btn btn-xemchitiet" href="ChiTietSP.jsp">
 					<img src="https://hondaxemay.com.vn/wp-content/themes/honda/assets/images/btn/btn-more.png" alt="">
 				</a>
 			</div>
@@ -136,29 +112,17 @@
 		</div>
 		<div class="col-lg-3 col-md-6 col-sm-6 col-xs-12 item">	
 			<div class="item-hovered">
-				<img class="img-hovered" src="https://hondaxemay.com.vn/wp-content/uploads/2018/04/165X205_165x205_acf_cropped.png" alt="Future 125cc">
+				<img class="img-hovered" src="https://hondaxemay.com.vn/wp-content/uploads/2018/05/165X205-CB500F-1.png" alt="CB500F">
 			<div class="more kc">
-				<p class="name">Future 125cc</p>								
-				<p class="price">Giá từ <b>30.190.000 VNĐ</b></p>
-				<a class="btn" href="ChiTietSP.jsp">
+				<p class="name">CB500F</p>					
+				<p class="price">Giá từ <b>172.000.000 VNĐ</b></p>
+				<a class="btn btn-xemchitiet" href="ChiTietSP.jsp">
 					<img src="https://hondaxemay.com.vn/wp-content/themes/honda/assets/images/btn/btn-more.png" alt="">
 				</a>
 			</div>
 		</div>
 		</div>
-		<div class="col-lg-3 col-md-6 col-sm-6 col-xs-12 item">	
-			<div class="item-hovered">
-				<img class="img-hovered" src="https://hondaxemay.com.vn/wp-content/uploads/2018/07/Side-view_165x205px_165x205_acf_cropped.png" alt="Wave Alpha 110cc">
-			<div class="more kc">
-				<p class="name">Wave Alpha 110cc</p>							
-					<p class="price">Giá từ <b>17.790.000 VNĐ</b></p>
-				<a class="btn" href="ChiTietSP.jsp">
-					<img src="https://hondaxemay.com.vn/wp-content/themes/honda/assets/images/btn/btn-more.png" alt="">
-				</a>
-			</div>
-		</div>
-		</div>
-		</div>
+       </div>      
       </div>
       <!-- TIN TUC -->
       <div class="container py-lg-5 py-md-5 py-sm-4 py-4 news" >
@@ -189,7 +153,7 @@
 						<span class="mobile-visible">“Trả thảnh thơi – Lái tuyệt vời” cùng…</span>
 					</a>
 				</div>
-				 <img class="gach-ngang" src="https://hondaxemay.com.vn/wp-content/themes/honda//assets/images/img/gach-ngang.png" alt="">
+				<img class="gach-ngang" src="https://hondaxemay.com.vn/wp-content/themes/honda//assets/images/img/gach-ngang.png" alt="">
 			    <div class="small-box" data-post-id="17431" data-link-youtube="">
 					<a href="https://hondaxemay.com.vn/tin-tuc/honda-viet-nam-cong-bo-ket-qua-kinh-doanh-thang-8-2018/">
 						<img class="normal-image" data-src="https://hondaxemay.com.vn/wp-content/uploads/2018/09/Honda-Logo_600x500_acf_cropped.jpg" src="https://hondaxemay.com.vn/wp-content/uploads/2018/09/Honda-Logo_600x500_acf_cropped.jpg" alt="Honda Việt Nam công bố Kết quả kinh doanh tháng 8/2018">

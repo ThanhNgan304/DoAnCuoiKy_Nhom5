@@ -2,7 +2,7 @@
 <!DOCTYPE html>
 <html lang="zxx">
    <head>
-      <title>Bảo hành - Bảo trì</title>
+      <title>Công nghệ</title>
       <!--meta tags -->
      <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
       <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -44,52 +44,50 @@
          <!-- main -->
 		<div class="text-center">
 			<div class="page-heading bao-hanh">
-				<h2>Bảo Hành – Bảo Trì</h2>
-				<p>Thông tin lịch bảo hành, quyền lợi của khách hàng khi sử dụng dịch vụ</p>
+				<h2>CÔNG NGHỆ NỔI BẬT</h2>
 			</div>
 		</div>
 		<div class="row">
 			<div class="col-lg-6 col-md-6 block">
 				<div class="image">
-					<img class="tablet-img" id="" src="https://hondaxemay.com.vn/wp-content/uploads/2015/11/baotri-block1.jpg" alt="baotri-block1" title="baotri-block1">							</div>
+					<img class="tablet-img" id="" src="https://hondaxemay.com.vn/wp-content/uploads/2016/02/crvecotw.png" alt="" title="baotri-block3">							</div>
 				<div class="desc">
-					<p>Loại xe và thời hạn bảo hành</p> <i class="fa fa-chevron-right"></i>
+					<p>Công nghệ Honda ECON</p> <i class="fa fa-chevron-right"></i>
 				</div>
 			</div>
 			<div class="col-lg-6 col-md-6 block">
 				<div class="image">
-					<img class="tablet-img" id="" src="https://hondaxemay.com.vn/wp-content/uploads/2015/11/baotri-block2-e1456549670759.jpg" alt="baotri-block2" title="baotri-block2">							</div>
+					<img class="tablet-img" id="" src="https://hondaxemay.com.vn/wp-content/uploads/2016/02/HondaJet_347.png" alt="" title="baotri-block6">							</div>
 				<div class="desc">
-					<p>Lịch bảo dưỡng</p> <i class="fa fa-chevron-right"></i>
-				</div>
-			</div>
-		</div>
-		<div class="row">
-			<div class="col-lg-6 col-md-6 block">
-				<div class="image">
-					<img class="tablet-img" id="" src="https://hondaxemay.com.vn/wp-content/uploads/2015/11/baotri-block3.jpg" alt="baotri-block3" title="baotri-block3">							</div>
-				<div class="desc">
-					<p>Quyền lợi, nghĩa vụ khách hàng</p> <i class="fa fa-chevron-right"></i>
-				</div>
-			</div>
-			<div class="col-lg-6 col-md-6 block">
-				<div class="image">
-					<img class="tablet-img" id="" src="https://hondaxemay.com.vn/wp-content/uploads/2015/11/baotri-block4.jpg" alt="Alt Sử dụng phụ tùng chính hiệu" title="Sử dụng phụ tùng chính hiệu">							</div>
-				<div class="desc">
-					<p>Sử dụng phụ tùng chính hiệu</p> <i class="fa fa-chevron-right"></i>
+					<p>HondaJet – Bay tới những Ước mơ</p> <i class="fa fa-chevron-right"></i>
 				</div>
 			</div>
 		</div>
 		<div class="row">
 			<div class="col-lg-6 col-md-6 block">
 				<div class="image">
-					<img class="tablet-img" id="" src="https://hondaxemay.com.vn/wp-content/uploads/2015/11/baotri-block6.jpg" alt="baotri-block6" title="baotri-block6">							</div>
+					<img class="tablet-img" id="" src="https://hondaxemay.com.vn/wp-content/uploads/2016/02/crvecotw.png" alt="" title="baotri-block3">							</div>
 				<div class="desc">
-					<p>Không bao gồm trong bảo hành</p> <i class="fa fa-chevron-right"></i>
+					<p>Công nghệ Honda ECON</p> <i class="fa fa-chevron-right"></i>
+				</div>
+			</div>
+			<div class="col-lg-6 col-md-6 block">
+				<div class="image">
+					<img class="tablet-img" id="" src="https://hondaxemay.com.vn/wp-content/uploads/2016/03/20131104085224_570x343_acf_cropped.png" alt="" title="Sử dụng phụ tùng chính hiệu">							</div>
+				<div class="desc">
+					<p>Vòng bi trên xe máy Honda</p> <i class="fa fa-chevron-right"></i>
 				</div>
 			</div>
 		</div>
-		
+		<div class="row">
+			<div class="col-lg-6 col-md-6 block">
+				<div class="image">
+					<img class="tablet-img" id="" src="https://hondaxemay.com.vn/wp-content/uploads/2016/02/HondaJet_347.png" alt="" title="baotri-block6">							</div>
+				<div class="desc">
+					<p>HondaJet – Bay tới những Ước mơ</p> <i class="fa fa-chevron-right"></i>
+				</div>
+			</div>
+		</div>
          <!-- //main -->
           <footer>
       		<jsp:include page="footer/footerlevel1.jsp"></jsp:include>
