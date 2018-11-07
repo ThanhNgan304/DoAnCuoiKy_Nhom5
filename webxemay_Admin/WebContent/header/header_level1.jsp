@@ -1,19 +1,18 @@
-<%@page contentType="text/html" pageEncoding="UTF-8"%>
+<%@ page pageEncoding="utf-8" %>
 <!DOCTYPE html>
 <html>
 <head>
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
-<meta charset="ISO-8859-1">
-<title>Insert title here</title>
+<meta charset="utf-8">
+<title></title>
 </head>
 <body>
-	 <header class="main-header">
+	<header class="main-header">
     <!-- Logo -->
     <a href="index2.html" class="logo">
       <!-- mini logo for sidebar mini 50x50 pixels -->
-      <span class="logo-mini"><b>A</b>DMIN</span>
+      <span class="logo-mini"><b>V</b></span>
       <!-- logo for regular state and mobile devices -->
-      <span class="logo-lg"><b>Admin</b></span>
+      <span class="logo-lg"><b>ViVu</b></span>
     </a>
     <!-- Header Navbar: style can be found in header.less -->
     <nav class="navbar navbar-static-top">
@@ -28,48 +27,31 @@
           <!-- User Account: style can be found in dropdown.less -->
           <li class="dropdown user user-menu">
             <a href="#" class="dropdown-toggle" data-toggle="dropdown">
-              <span class="user-image "></span>
-              <span class="hidden-xs"></span>
+              <img src="dist/img/avatar5.png" class="user-image" alt="User Image">
+              <span class="hidden-xs">Thái Thanh Liêm</span>
             </a>
             <ul class="dropdown-menu">
               <!-- User image -->
               <li class="user-header">
-                <img src="dist/img/user2-160x160.jpg" class="img-circle" alt="User Image">
+                <img src="dist/img/avatar5.png" class="img-circle" alt="User Image">
 
                 <p>
-                  Alexander Pierce - Web Developer
-                  <small>Member since Nov. 2012</small>
+                  Thái Thanh Liêm - Edit
+                  <small>IT K16 2018 </small>
                 </p>
               </li>
               <!-- Menu Body -->
               <li class="user-body">
                 <div class="row">
                   <div class="col-xs-4 text-center">
-                    <a href="#">Followers</a>
-                  </div>
-                  <div class="col-xs-4 text-center">
-                    <a href="#">Sales</a>
-                  </div>
-                  <div class="col-xs-4 text-center">
-                    <a href="#">Friends</a>
+                    <a href="https://www.facebook.com/thaithanh.liem.1">
+                      <button class="btn btn-facebook"><i class="fa fa-facebook-f"></i></button>
+                    </a>
                   </div>
                 </div>
                 <!-- /.row -->
-              </li>
-              <!-- Menu Footer-->
-              <li class="user-footer">
-                <div class="pull-left">
-                  <a href="#" class="btn btn-default btn-flat">Profile</a>
-                </div>
-                <div class="pull-right">
-                  <a href="#" class="btn btn-default btn-flat">Sign out</a>
-                </div>
-              </li>
+              </li>       
             </ul>
-          </li>
-          <!-- Control Sidebar Toggle Button -->
-          <li>
-            <a href="#" data-toggle="control-sidebar"><i class="fa fa-gears"></i></a>
           </li>
         </ul>
       </div>

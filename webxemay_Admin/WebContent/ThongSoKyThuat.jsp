@@ -4,7 +4,7 @@
 <head>
 <meta charset="utf-8">
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
-<title>Khách hàng</title>
+<title>Admin</title>
 <metacontent ="width=device-width, initial-scale=1, maximum-scale=1,
 	user-scalable=no "name="viewport"> <!-- Bootstrap 3.3.7 -->
 <link rel="stylesheet"
@@ -45,57 +45,56 @@
 				<ol class="breadcrumb">
 					<li><a href="TrangChuAdmin.html"><i
 							class="fa fa-dashboard"></i>Trang chủ</a></li>
-					<li class="active">Khách hàng</li>
+					<li>> Thông số kỹ thuật</li>
 				</ol>
 			</section>
 
 			<!-- Main content -->
 			<section class="content">
 
-				<!-- Bảng chính -->
 				<div class="row">
 					<div class="col-xs-12">
 						<div class="box">
 							<div class="box-header">
-								<h3 class="box-title">Bảng danh sách sản phẩm</h3>
+								<h3 class="text-center" style="color: red">Bảng danh sách
+									thông số lỹ thuật</h3>
 							</div>
 							<div class="box-body">
 								<div class="row">
-									<div class="col-xs-12">
+									<div class="col-xs-10">
 										<div class="input-group">
 											<span class="input-group-addon"><i
 												class="fa fa-search"></i></span> <input type="text"
-												class="form-control" onkeyup="myFunctionKH()" id="myInput"
+												class="form-control" onkeyup="myFunctionSP()" id="myInput"
 												placeholder="Tìm">
 										</div>
 									</div>
+									<div class="col-xs-2">
+										<div class="btn-them">
+											<a href="ThemTSKT.jsp">
+												<button type="button" class="btn btn-primary">
+													<i class="fa fa-plus"></i> Thêm
+												</button>
+											</a>
+										</div>
+									</div>
 								</div>
-
 								<table class="table table-bordered table-hover" id="myTable">
 									<thead>
 										<tr>
-											<th>Mã khách hàng</th>
-											<th>Tên khách hàng</th>
-											<th>tên đăng nhập</th>
-											<th>mật khẩu</th>
-											<th>Địa chỉ</th>
-											<th>Số điện thoại</th>
+											<th>Mã TSKT</th>
+											<th>Tên xe máy</th>
 											<th>Xem chi tiết</th>
-											<th>Xóa sản phẩm</th>
+											<th>Xóa</th>
 										</tr>
 									</thead>
-
 									<tbody>
 										<tr>
-											<td>makh01</td>
-											<td>Anh A</td>
-											<td>anha</td>
-											<td>123456</td>
-											<td>tp hcm</td>
-											<td>0909452358</td>
-											<td><span> <a href="XemKhachHang.jsp">
+											<td>maTSKT01</td>
+											<td>Rebel 300</td>
+											<td><span> <a href="ChiTietTSKT.jsp">
 														<button type="button" class="btn btn-info">
-															<i class="fa fa-pencil"></i> Xem
+															<i class="fa fa-eye"></i> Xem
 														</button>
 												</a>
 											</span></td>
@@ -133,222 +132,6 @@
 																		data-dismiss="modal">Close</button>
 																</div>
 
-															</div>
-														</div>
-													</div>
-												</div>
-
-
-											</td>
-										</tr>
-										<tr>
-											<td>makh01</td>
-											<td>Anh A</td>
-											<td>anha</td>
-											<td>123456</td>
-											<td>tp hcm</td>
-											<td>0909452358</td>
-											<td><span> <a href="#">
-														<button type="button" class="btn btn-info">
-															<i class="fa fa-pencil"></i> Xem
-														</button>
-												</a>
-											</span></td>
-											<td>
-												<div>
-
-													<!-- Button to Open the Modal -->
-													<div data-toggle="modal" data-target="#myModal">
-														<button type="button" class="btn btn-danger">
-															<i class="fa fa-trash"></i> Xóa
-														</button>
-													</div>
-
-													<!-- The Modal -->
-													<div class="modal fade" id="myModal">
-														<div class="modal-dialog">
-															<div class="modal-content">
-
-																<!-- Modal Header -->
-																<div class="modal-header">
-																	<h4 class="modal-title">Cảnh báo</h4>
-																	<button type="button" class="close"
-																		data-dismiss="modal">&times;</button>
-																</div>
-
-																<!-- Modal body -->
-																<div class="modal-body">Bạn có chắc chắn muốn xóa?
-																</div>
-
-																<!-- Modal footer -->
-																<div class="modal-footer">
-																	<button type="button" class="btn btn-dropbox"
-																		data-dismiss="modal">Ok</button>
-																	<button type="button" class="btn btn-danger"
-																		data-dismiss="modal">Close</button>
-																</div>
-
-															</div>
-														</div>
-													</div>
-												</div>
-
-
-											</td>
-										</tr>
-										<tr>
-											<td>makh01</td>
-											<td>Anh A</td>
-											<td>anha</td>
-											<td>123456</td>
-											<td>tp hcm</td>
-											<td>0909452358</td>
-											<td><span> <a href="#">
-														<button type="button" class="btn btn-info">
-															<i class="fa fa-pencil"></i> Xem
-														</button>
-												</a>
-											</span></td>
-											<td>
-												<div>
-
-													<!-- Button to Open the Modal -->
-													<div data-toggle="modal" data-target="#myModal">
-														<button type="button" class="btn btn-danger">
-															<i class="fa fa-trash"></i> Xóa
-														</button>
-													</div>
-
-													<!-- The Modal -->
-													<div class="modal fade" id="myModal">
-														<div class="modal-dialog">
-															<div class="modal-content">
-
-																<!-- Modal Header -->
-																<div class="modal-header">
-																	<h4 class="modal-title">Cảnh báo</h4>
-																	<button type="button" class="close"
-																		data-dismiss="modal">&times;</button>
-																</div>
-
-																<!-- Modal body -->
-																<div class="modal-body">Bạn có chắc chắn muốn xóa?
-																</div>
-
-																<!-- Modal footer -->
-																<div class="modal-footer">
-																	<button type="button" class="btn btn-dropbox"
-																		data-dismiss="modal">Ok</button>
-																	<button type="button" class="btn btn-danger"
-																		data-dismiss="modal">Close</button>
-																</div>
-
-															</div>
-														</div>
-													</div>
-												</div>
-											</td>
-										<tr>
-											<td>makh01</td>
-											<td>Anh A</td>
-											<td>anha</td>
-											<td>123456</td>
-											<td>tp hcm</td>
-											<td>0909452358</td>
-											<td><span> <a href="#">
-														<button type="button" class="btn btn-info">
-															<i class="fa fa-pencil"></i> Xem
-														</button>
-												</a>
-											</span></td>
-											<td>
-												<div>
-
-													<!-- Button to Open the Modal -->
-													<div data-toggle="modal" data-target="#myModal">
-														<button type="button" class="btn btn-danger">
-															<i class="fa fa-trash"></i> Xóa
-														</button>
-													</div>
-
-													<!-- The Modal -->
-													<div class="modal fade" id="myModal">
-														<div class="modal-dialog">
-															<div class="modal-content">
-
-																<!-- Modal Header -->
-																<div class="modal-header">
-																	<h4 class="modal-title">Cảnh báo</h4>
-																	<button type="button" class="close"
-																		data-dismiss="modal">&times;</button>
-																</div>
-
-																<!-- Modal body -->
-																<div class="modal-body">Bạn có chắc chắn muốn xóa?
-																</div>
-
-																<!-- Modal footer -->
-																<div class="modal-footer">
-																	<button type="button" class="btn btn-dropbox"
-																		data-dismiss="modal">Ok</button>
-																	<button type="button" class="btn btn-danger"
-																		data-dismiss="modal">Close</button>
-																</div>
-
-															</div>
-														</div>
-													</div>
-												</div>
-
-
-											</td>
-										</tr>
-										<tr>
-											<td>makh01</td>
-											<td>Anh A</td>
-											<td>anha</td>
-											<td>123456</td>
-											<td>tp hcm</td>
-											<td>0909452358</td>
-											<td><span> <a href="#">
-														<button type="button" class="btn btn-info">
-															<i class="fa fa-pencil"></i> Xem
-														</button>
-												</a>
-											</span></td>
-											<td>
-												<div>
-
-													<!-- Button to Open the Modal -->
-													<div data-toggle="modal" data-target="#myModal">
-														<button type="button" class="btn btn-danger">
-															<i class="fa fa-trash"></i> Xóa
-														</button>
-													</div>
-
-													<!-- The Modal -->
-													<div class="modal fade" id="myModal">
-														<div class="modal-dialog">
-															<div class="modal-content">
-
-																<!-- Modal Header -->
-																<div class="modal-header">
-																	<h4 class="modal-title">Cảnh báo</h4>
-																	<button type="button" class="close"
-																		data-dismiss="modal">&times;</button>
-																</div>
-
-																<!-- Modal body -->
-																<div class="modal-body">Bạn có chắc chắn muốn xóa?
-																</div>
-
-																<!-- Modal footer -->
-																<div class="modal-footer">
-																	<button type="button" class="btn btn-dropbox"
-																		data-dismiss="modal">Ok</button>
-																	<button type="button" class="btn btn-danger"
-																		data-dismiss="modal">Close</button>
-																</div>
 															</div>
 														</div>
 													</div>
@@ -356,15 +139,11 @@
 											</td>
 										</tr>
 										<tr>
-											<td>makh01</td>
-											<td>Anh A</td>
-											<td>anha</td>
-											<td>123456</td>
-											<td>tp hcm</td>
-											<td>0909452358</td>
-											<td><span> <a href="#">
+											<td>maTSKT02</td>
+											<td>Rebel 125</td>
+											<td><span> <a href="ChiTietTSKT.html">
 														<button type="button" class="btn btn-info">
-															<i class="fa fa-pencil"></i> Xem
+															<i class="fa fa-eye"></i> Xem
 														</button>
 												</a>
 											</span></td>
@@ -401,12 +180,64 @@
 																	<button type="button" class="btn btn-danger"
 																		data-dismiss="modal">Close</button>
 																</div>
+
 															</div>
 														</div>
 													</div>
 												</div>
 											</td>
 										</tr>
+										<tr>
+											<td>maTSKT03</td>
+											<td>Rebel 500</td>
+											<td><span> <a href="ChiTietTSKT.jsp">
+														<button type="button" class="btn btn-info">
+															<i class="fa fa-eye"></i> Xem
+														</button>
+												</a>
+											</span></td>
+											<td>
+												<div>
+
+													<!-- Button to Open the Modal -->
+													<div data-toggle="modal" data-target="#myModal">
+														<button type="button" class="btn btn-danger">
+															<i class="fa fa-trash"></i> Xóa
+														</button>
+													</div>
+
+													<!-- The Modal -->
+													<div class="modal fade" id="myModal">
+														<div class="modal-dialog">
+															<div class="modal-content">
+
+																<!-- Modal Header -->
+																<div class="modal-header">
+																	<h4 class="modal-title">Cảnh báo</h4>
+																	<button type="button" class="close"
+																		data-dismiss="modal">&times;</button>
+																</div>
+
+																<!-- Modal body -->
+																<div class="modal-body">Bạn có chắc chắn muốn xóa?
+																</div>
+
+																<!-- Modal footer -->
+																<div class="modal-footer">
+																	<button type="button" class="btn btn-dropbox"
+																		data-dismiss="modal">Ok</button>
+																	<button type="button" class="btn btn-danger"
+																		data-dismiss="modal">Close</button>
+																</div>
+
+															</div>
+														</div>
+													</div>
+												</div>
+											</td>
+										</tr>
+
+
 									</tbody>
 								</table>
 							</div>

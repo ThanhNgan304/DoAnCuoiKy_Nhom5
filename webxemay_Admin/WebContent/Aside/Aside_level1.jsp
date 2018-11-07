@@ -1,23 +1,32 @@
-<%@page contentType="text/html" pageEncoding="UTF-8"%>
+<%@ page pageEncoding="utf-8" %>
 <!DOCTYPE html>
 <html>
 <head>
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
-<meta charset="ISO-8859-1">
-<title>Insert title here</title>
+<meta charset="utf-8">
+<title></title>
 </head>
 <body>
-	 <!-- Left side column. contains the logo and sidebar -->
+	  <!-- Left side column. contains the logo and sidebar -->
   <aside class="main-sidebar">
     <!-- sidebar: style can be found in sidebar.less -->
     <section class="sidebar">
       <!-- sidebar menu: : style can be found in sidebar.less -->
       <ul class="sidebar-menu" data-widget="tree">
         <li class="header">CÁC CHỨC NĂNG CHÍNH</li>
-        <li>
-          <a href="SanPham.jsp">
-            <i class="fa fa-motorcycle"></i> <span>Sản phẩm</span>
+        <li class="treeview">
+          <a href="#">
+            <i class="fa fa-dashboard"></i><span>Danh mục sản phẩm</span>
+            <span class="pull-right-container">
+              <i class="fa fa-angle-left pull-right"></i>
+            </span>
           </a>
+          <ul class="treeview-menu">
+            <li><a href="LoaiSanPham.jsp"><i class="fa fa-arrows"></i> Loại sản phẩm</a></li>
+            <li><a href="SanPham.jsp"><i class="fa fa-motorcycle"></i> Sản phẩm</a></li>
+            <li><a href="ThongSoKyThuat.jsp"><i class="fa fa-gears"></i> Thông số kỹ thuật</a></li>
+            <li><a href="DanhSachNhapHang.jsp"><i class="fa fa-wpforms"></i> Nhập hàng</a>
+        </li>
+          </ul>
         </li>
         <li>
           <a href="HoaDon.jsp">
@@ -29,11 +38,7 @@
             <i class="fa fa-th"></i> <span>Khách hàng</span>
           </a>
         </li>
-        <li>
-            <a href="PhieuNhapHang.jsp">
-              <i class="fa fa-wpforms"></i> <span>Nhập hàng</span>
-            </a>
-        </li>
+        
         <li class="treeview">
           <a href="#">
             <i class="fa fa-pie-chart"></i><span>Thống kê</span>
@@ -42,9 +47,9 @@
             </span>
           </a>
           <ul class="treeview-menu">
-            <li><a href="#"><i class="fa fa-circle-o"></i>Doanh thu theo tháng</a></li>
-            <li><a href="#"><i class="fa fa-circle-o"></i> Sản phẩm bán chạy</a></li>
-            <li><a href="SanPhamTon.jsp"><i class="fa fa-circle-o"></i> Sản phẩm tồn</a></li>
+            <li><a href="DoanhThu.jsp"><i class="fa fa-bar-chart-o"></i> Doanh thu</a></li>
+            <li><a href="SanPhamBanChay.jsp"><i class="fa fa-line-chart"></i> Sản phẩm bán chạy</a></li>
+            <li><a href="SanPhamTon.jsp"><i class="fa fa-area-chart"></i> Sản phẩm tồn</a></li>
           </ul>
         </li>
       </ul>
