@@ -1,4 +1,4 @@
-<%@page contentType="text/html" pageEncoding="UTF-8"%>
+﻿<%@page contentType="text/html" pageEncoding="UTF-8"%>
 <!DOCTYPE html>
 <html lang="zxx">
    <head>
@@ -55,13 +55,13 @@
                            <div class="clearfix"></div>
                         <div class="flex-viewport" style="overflow: hidden; position: relative;">
                         <ul class="slides" style="width: 1000%; transition-duration: 0s; transform: translate3d(-290px, 0px, 0px);">
-                        <li data-thumb="images/f3.jpg" class="clone" style="width: 290px; float: left; display: block;">
+                        <li data-thumb="guest_user/images/f3.jpg" class="clone" style="width: 290px; float: left; display: block;">
                                  <div class="thumb-image"> <img src="guest_user/images/f3.jpg" data-imagezoom="true" class="img-fluid" alt=" "> </div>
                               </li>
-                              <li data-thumb="images/f2.jpg" class="flex-active-slide" style="width: 290px; float: left; display: block;">
+                              <li data-thumb="guest_user/images/f2.jpg" class="flex-active-slide" style="width: 290px; float: left; display: block;">
                                  <div class="thumb-image"> <img src="guest_user/images/f2.jpg" data-imagezoom="true" class="img-fluid" alt=" "> </div>
                               </li>
-                              <li data-thumb="images/f1.jpg" style="width: 290px; float: left; display: block;" class="">
+                              <li data-thumb="guest_user/images/f1.jpg" style="width: 290px; float: left; display: block;" class="">
                                  <div class="thumb-image"> <img src="guest_user/images/f1.jpg" data-imagezoom="true" class="img-fluid" alt=" "> </div>
                               </li>
 						</ul>
