@@ -53,14 +53,14 @@
 				<div class="image">
 					<img class="tablet-img" id="" src="https://hondaxemay.com.vn/wp-content/uploads/2015/11/baotri-block1.jpg" alt="baotri-block1" title="baotri-block1">							</div>
 				<div class="desc">
-					<p>Loại xe và thời hạn bảo hành</p> <i class="fa fa-chevron-right"></i>
+					<p>Loại xe và thời hạn bảo hành</p> <!-- -->
 				</div>
 			</div>
 			<div class="col-lg-6 col-md-6 block">
 				<div class="image">
 					<img class="tablet-img" id="" src="https://hondaxemay.com.vn/wp-content/uploads/2015/11/baotri-block2-e1456549670759.jpg" alt="baotri-block2" title="baotri-block2">							</div>
 				<div class="desc">
-					<p>Lịch bảo dưỡng</p> <i class="fa fa-chevron-right"></i>
+					<p>Lịch bảo dưỡng</p> <!-- -->
 				</div>
 			</div>
 		</div>
@@ -69,14 +69,14 @@
 				<div class="image">
 					<img class="tablet-img" id="" src="https://hondaxemay.com.vn/wp-content/uploads/2015/11/baotri-block3.jpg" alt="baotri-block3" title="baotri-block3">							</div>
 				<div class="desc">
-					<p>Quyền lợi, nghĩa vụ khách hàng</p> <i class="fa fa-chevron-right"></i>
+					<p>Quyền lợi, nghĩa vụ khách hàng</p> <!-- -->
 				</div>
 			</div>
 			<div class="col-lg-6 col-md-6 block">
 				<div class="image">
 					<img class="tablet-img" id="" src="https://hondaxemay.com.vn/wp-content/uploads/2015/11/baotri-block4.jpg" alt="Alt Sử dụng phụ tùng chính hiệu" title="Sử dụng phụ tùng chính hiệu">							</div>
 				<div class="desc">
-					<p>Sử dụng phụ tùng chính hiệu</p> <i class="fa fa-chevron-right"></i>
+					<p>Sử dụng phụ tùng chính hiệu</p> <!-- -->
 				</div>
 			</div>
 		</div>
@@ -85,7 +85,7 @@
 				<div class="image">
 					<img class="tablet-img" id="" src="https://hondaxemay.com.vn/wp-content/uploads/2015/11/baotri-block6.jpg" alt="baotri-block6" title="baotri-block6">							</div>
 				<div class="desc">
-					<p>Không bao gồm trong bảo hành</p> <i class="fa fa-chevron-right"></i>
+					<p>Không bao gồm trong bảo hành</p> <!-- -->
 				</div>
 			</div>
 		</div>

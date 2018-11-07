@@ -52,14 +52,14 @@
 				<div class="image">
 					<img class="tablet-img" id="" src="https://hondaxemay.com.vn/wp-content/uploads/2018/10/Honda-Logo_600x500_acf_cropped.jpg" alt="baotri-block1" title="baotri-block1">							</div>
 				<div class="desc">
-					<p>Honda Việt Nam công bố kết quả hoạt động kinh doanh 6 tháng đầu năm</p> <i class="fa fa-chevron-right"></i>
+					<p>Honda Việt Nam công bố kết quả hoạt động kinh doanh 6 tháng đầu năm</p> <!-- -->
 				</div>
 			</div>
 			<div class="col-lg-6 col-md-6 block">
 				<div class="image">
 					<img class="tablet-img" id="" src="https://hondaxemay.com.vn/wp-content/uploads/2018/10/fbpost_BP_600x500_acf_cropped.jpg" alt="baotri-block2" title="baotri-block2">							</div>
 				<div class="desc">
-					<p>Honda Việt Nam giới thiệu Honda VISION phiên bản mới</p> <i class="fa fa-chevron-right"></i>
+					<p>Honda Việt Nam giới thiệu Honda VISION phiên bản mới</p> <!-- -->
 				</div>
 			</div>
 		</div>
@@ -68,14 +68,14 @@
 				<div class="image">
 					<img class="tablet-img" id="" src="https://hondaxemay.com.vn/wp-content/uploads/2018/10/768x582_honda_768x581_acf_cropped_600x500_acf_cropped.jpg" alt="baotri-block3" title="baotri-block3">							</div>
 				<div class="desc">
-					<p>“Trả thảnh thơi – Lái tuyệt vời” cùng Honda nhận quà</p> <i class="fa fa-chevron-right"></i>
+					<p>“Trả thảnh thơi – Lái tuyệt vời” cùng Honda nhận quà</p> <!-- -->
 				</div>
 			</div>
 			<div class="col-lg-6 col-md-6 block">
 				<div class="image">
 					<img class="tablet-img" id="" src="https://hondaxemay.com.vn/wp-content/uploads/2018/09/Honda-Logo_600x500_acf_cropped.jpg" alt="Alt Sử dụng phụ tùng chính hiệu" title="Sử dụng phụ tùng chính hiệu">							</div>
 				<div class="desc">
-					<p>Honda Việt Nam công bố Kết quả kinh doanh tháng 6</p> <i class="fa fa-chevron-right"></i>
+					<p>Honda Việt Nam công bố Kết quả kinh doanh tháng 6</p> <!-- -->
 				</div>
 			</div>
 		</div>
@@ -84,7 +84,7 @@
 				<div class="image">
 					<img class="tablet-img" id="" src="https://hondaxemay.com.vn/wp-content/uploads/2018/09/Các-em-học-sinh-chung-niềm-vui-nhận-món-quà-đầu-năm-học-mới_600x500_acf_cropped.jpg" alt="baotri-block6" title="baotri-block6">							</div>
 				<div class="desc">
-					<p>Lễ phát động trao tặng Mũ bảo hiểm cho học sinh</p> <i class="fa fa-chevron-right"></i>
+					<p>Lễ phát động trao tặng Mũ bảo hiểm cho học sinh</p> <!-- -->
 				</div>
 			</div>
 		</div>

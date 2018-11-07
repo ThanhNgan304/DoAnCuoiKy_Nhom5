@@ -27,10 +27,6 @@
       <link rel="stylesheet" href="css/flexslider.css" type="text/css" media="all" />
       <!--flexs slider-->
       <link href="css/JiSlider.css" rel="stylesheet">
-      <!--Shoping cart-->
-      <!-- <link rel="stylesheet" href="css/shop.css" type="text/css" />
- -->      <!--//Shoping cart-->
-      <!--stylesheets-->
       <link href="css/style.css" rel='stylesheet' type='text/css' media="all">
       <!--//stylesheets-->
       <link href="//fonts.googleapis.com/css?family=Sunflower:500,700" rel="stylesheet">
@@ -80,7 +76,7 @@
       <div class="row banner-below-w3l">
 		<div class="col-lg-3 col-md-6 col-sm-6 col-xs-12 item">	
 			<div class="item-hovered">
-				<img class="img-hovered" src="https://hondaxemay.com.vn/wp-content/uploads/2018/08/165x205-2-01_165x205_acf_cropped.png" alt="PCX HYBRID">
+				<a href="ChiTietSP.jsp"><img class="img-hovered" src="images/xm1.jpg" alt="PCX HYBRID"></a>
 			<div class="more kc">
 				<p class="name">PCX HYBRID</p>									
 				<p class="price">Giá từ <b>89.990.000 VNĐ</b></p>
@@ -92,7 +88,7 @@
 		</div>
 		<div class="col-lg-3 col-md-6 col-sm-6 col-xs-12 item">	
 			<div class="item-hovered">
-				<img class="img-hovered" src="https://hondaxemay.com.vn/wp-content/uploads/2018/06/165x205px_165x205_acf_cropped.png" alt="MSX 125cc">
+				<a href="ChiTietSP.jsp"><img class="img-hovered" src="https://hondaxemay.com.vn/wp-content/uploads/2018/06/165x205px_165x205_acf_cropped.png" alt="MSX 125cc"></a>
 			<div class="more kc">
 				<p class="name">MSX 125cc</p>								
 				<p class="price">Giá từ <b>49.990.000 VNĐ</b></p>
@@ -104,7 +100,7 @@
 		</div>
 		<div class="col-lg-3 col-md-6 col-sm-6 col-xs-12 item">	
 			<div class="item-hovered">
-				<img class="img-hovered" src="https://hondaxemay.com.vn/wp-content/uploads/2017/12/165x205_AB-1_165x205_acf_cropped.png" alt="Air Blade 125cc">
+				<a href="ChiTietSP.jsp"><img class="img-hovered" src="https://hondaxemay.com.vn/wp-content/uploads/2017/12/165x205_AB-1_165x205_acf_cropped.png" alt="Air Blade 125cc"></a>
 			<div class="more kc">
 				<p class="name">Air Blade 125cc</p>									
 				<p class="price">Giá từ <b>37.990.000 VNĐ</b></p>
@@ -116,7 +112,7 @@
 		</div>
 		<div class="col-lg-3 col-md-6 col-sm-6 col-xs-12 item">	
 			<div class="item-hovered">
-				<img class="img-hovered" src="https://hondaxemay.com.vn/wp-content/uploads/2018/07/Side-view_165x205px_165x205_acf_cropped.png" alt="Wave Alpha 110cc">
+				<a href="ChiTietSP.jsp"><img class="img-hovered" src="https://hondaxemay.com.vn/wp-content/uploads/2018/07/Side-view_165x205px_165x205_acf_cropped.png" alt="Wave Alpha 110cc"></a>
 			<div class="more kc">
 				<p class="name">Wave Alpha 110cc</p>							
 					<p class="price">Giá từ <b>17.790.000 VNĐ</b></p>
@@ -128,7 +124,7 @@
 		</div>
 		<div class="col-lg-3 col-md-6 col-sm-6 col-xs-12 item">	
 			<div class="item-hovered">
-				<img class="img-hovered" src="https://hondaxemay.com.vn/wp-content/uploads/2018/04/165X205_165x205_acf_cropped.png" alt="Future 125cc">
+				<a href="ChiTietSP.jsp"><img class="img-hovered" src="https://hondaxemay.com.vn/wp-content/uploads/2018/04/165X205_165x205_acf_cropped.png" alt="Future 125cc"></a>
 			<div class="more kc">
 				<p class="name">Future 125cc</p>								
 				<p class="price">Giá từ <b>30.190.000 VNĐ</b></p>
@@ -140,7 +136,7 @@
 		</div>
 		<div class="col-lg-3 col-md-6 col-sm-6 col-xs-12 item">	
 			<div class="item-hovered">
-				<img class="img-hovered" src="https://hondaxemay.com.vn/wp-content/uploads/2018/05/165X205-CB650F-3.png" alt="CB650F">
+				<a href="ChiTietSP.jsp"><img class="img-hovered" src="https://hondaxemay.com.vn/wp-content/uploads/2018/05/165X205-CB650F-3.png" alt="CB650F"></a>
 			<div class="more kc">
 				<p class="name">CB650F</p>		
 				<p class="price">Giá từ <b>225.900.000 VNĐ</b></p>
@@ -152,7 +148,7 @@
 		</div>
 		<div class="col-lg-3 col-md-6 col-sm-6 col-xs-12 item">	
 			<div class="item-hovered">
-				<img class="img-hovered" src="https://hondaxemay.com.vn/wp-content/uploads/2018/05/165X205-CB500X-1.png" alt="CB500X">
+				<a href="ChiTietSP.jsp"><img class="img-hovered" src="https://hondaxemay.com.vn/wp-content/uploads/2018/05/165X205-CB500X-1.png" alt="CB500X"></a>
 			<div class="more kc">
 				<p class="name">CB500X</p>				
 				<p class="price">Giá từ <b>180.000.000 VNĐ</b></p>
@@ -164,7 +160,7 @@
 		</div>
 		<div class="col-lg-3 col-md-6 col-sm-6 col-xs-12 item">	
 			<div class="item-hovered">
-				<img class="img-hovered" src="https://hondaxemay.com.vn/wp-content/uploads/2018/05/165X205-CB500F-1.png" alt="CB500F">
+				<a href="ChiTietSP.jsp"><img class="img-hovered" src="https://hondaxemay.com.vn/wp-content/uploads/2018/05/165X205-CB500F-1.png" alt="CB500F"></a>
 			<div class="more kc">
 				<p class="name">CB500F</p>					
 				<p class="price">Giá từ <b>172.000.000 VNĐ</b></p>
@@ -176,7 +172,7 @@
 		</div>
 		<div class="col-lg-3 col-md-6 col-sm-6 col-xs-12 item">	
 			<div class="item-hovered">
-				<img class="img-hovered" src="https://hondaxemay.com.vn/wp-content/uploads/2017/11/165X205_165x205_acf_cropped-1.png" alt="WINNER 150cc">
+				<a href="ChiTietSP.jsp"><img class="img-hovered" src="https://hondaxemay.com.vn/wp-content/uploads/2017/11/165X205_165x205_acf_cropped-1.png" alt="WINNER 150cc"></a>
 			<div class="more kc">
 				<p class="name">WINNER 150cc</p>					
 				<p class="price">Giá từ <b>45.490.000 VNĐ</b></p>
@@ -188,7 +184,7 @@
 		</div>
 		<div class="col-lg-3 col-md-6 col-sm-6 col-xs-12 item">	
 			<div class="item-hovered">
-				<img class="img-hovered" src="https://hondaxemay.com.vn/wp-content/uploads/2016/03/165x205-1.png" alt="SH 125cc/150cc">
+				<a href="ChiTietSP.jsp"><img class="img-hovered" src="https://hondaxemay.com.vn/wp-content/uploads/2016/03/165x205-1.png" alt="SH 125cc/150cc"></a>
 				<div class="more kc">
 					<p class="name">SH 125cc/150cc</p>					
 					<p class="price">Giá từ <b>67.990.000 VNĐ</b></p>
@@ -200,7 +196,7 @@
 		</div>
 		<div class="col-lg-3 col-md-6 col-sm-6 col-xs-12 item">	
 			<div class="item-hovered">
-				<img class="img-hovered" src="https://hondaxemay.com.vn/wp-content/uploads/2018/08/165x205-2-01_165x205_acf_cropped.png" alt="PCX HYBRID">
+				<a href="ChiTietSP.jsp"><img class="img-hovered" src="https://hondaxemay.com.vn/wp-content/uploads/2018/08/165x205-2-01_165x205_acf_cropped.png" alt="PCX HYBRID"></a>
 				<div class="more kc">
 					<p class="name">PCX HYBRID</p>									
 					<p class="price">Giá từ <b>89.990.000 VNĐ</b></p>
@@ -212,7 +208,7 @@
 		</div>
 		<div class="col-lg-3 col-md-6 col-sm-6 col-xs-12 item">	
 			<div class="item-hovered">
-				<img class="img-hovered" src="https://hondaxemay.com.vn/wp-content/uploads/2018/08/165x205-2-01_165x205_acf_cropped.png" alt="PCX HYBRID">
+				<a href="ChiTietSP.jsp"><img class="img-hovered" src="https://hondaxemay.com.vn/wp-content/uploads/2018/08/165x205-2-01_165x205_acf_cropped.png" alt="PCX HYBRID"></a>
 			<div class="more kc">
 				<p class="name">PCX HYBRID</p>									
 				<p class="price">Giá từ <b>89.990.000 VNĐ</b></p>

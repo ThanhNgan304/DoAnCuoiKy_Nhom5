@@ -22,11 +22,12 @@ function validateForm() {
     }
 }
 </script>
+
 </head>
 
 <body>
-
-<div class="container">
+<script src="js/particles.js"></script>
+<div class="container" id="paticles_js">
     <div class="login">
         <h1>Khách hàng đăng nhập</h1>
         <form action="Login" method="post" id="frm-dang-nhap">

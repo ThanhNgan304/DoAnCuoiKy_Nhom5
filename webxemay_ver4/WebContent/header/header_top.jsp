@@ -9,7 +9,7 @@
 <title>Insert title here</title>
 </head>
 <body>
-	<div class="container-fluid">
+	<div class="container-fluid ">
                <div class="hedder-up row">
                   <div class="col-lg-3 col-md-3 logo-head">
                      <h1><a class="navbar-brand" href="index.html">VivuXemay.com</a></h1>
@@ -40,7 +40,7 @@
                <span class="navbar-toggler-icon"></span>
                </button>
                <div class="collapse navbar-collapse justify-content-center" id="navbarSupportedContent">
-                  <ul class="navbar-nav " style="boder-style: none">
+                  <ul class="navbar-nav " style="border-style: none">
                      <li class="nav-item active">
                         <a class="nav-link" href="mau.jsp">Trang chủ <span class="sr-only">(current)</span></a>
                      </li>

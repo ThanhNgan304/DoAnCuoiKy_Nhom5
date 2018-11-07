@@ -69,7 +69,7 @@ font-family: 'Sunflower', sans-serif;
 }
 
 p {
-    margin: -5px;
+    margin: -15px;
     padding: 0;
     letter-spacing: 1px;
     font-family: 'Open Sans', sans-serif;
@@ -110,6 +110,7 @@ letter-spacing: 2px;
 margin: 0px;
 }
 .hedder-up {
+	width: 100%;
     background: HSL(215, 34%, 12%);
 }
 .search-right,.right-side-cart {
@@ -347,7 +348,7 @@ width: 100%;
 border: 0;
 }
 .callbacks .caption {
-display: block;
+display: 
 position: absolute;
 z-index: 2;
 font-size: 20px;
@@ -1352,6 +1353,7 @@ h3.typo-main-heading {
 .hedder-up, .info-top-grid, nav.navbar.navbar-expand-lg.navbar-light {
     /* padding: 1em 1em; */
     padding:0px;
+    width:100%;
 }
 .navbar-light .navbar-nav .nav-link {
     font-size: 14px;
@@ -1470,6 +1472,7 @@ h3.typo-main-heading {
 @media(max-width:384px){
 	.hedder-up, .info-top-grid, nav.navbar.navbar-expand-lg.navbar-light {
     /* padding: .7em 1em; */
+    width: 100%;
 }
 	.clients-says-w3layouts {
     padding: 16px 0px 0px;
@@ -1859,6 +1862,24 @@ ol {
 }
 .page-heading .bao-hanh h2{
 	margin-top: 150px;
+}
+.fix{
+    position: fixed;
+    z-index: 1000;
+    transition: 1ms;
+    background-color: hsl(217, 34%, 12%);
+    top: 0;
+    left: 0;
+}
+.fix-top{
+	transition: 0.3s linear;
+}
+.fix-bottom{
+	overflow: hidden;
+    position: relative;
+    z-index: -1;
+    top: 0;
+    transition: 0.3s linear;
 }
 /*--//responsive--*/
 

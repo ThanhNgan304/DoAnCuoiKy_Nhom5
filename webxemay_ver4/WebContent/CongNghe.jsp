@@ -52,14 +52,14 @@
 				<div class="image">
 					<img class="tablet-img" id="" src="https://hondaxemay.com.vn/wp-content/uploads/2016/02/crvecotw.png" alt="" title="baotri-block3">							</div>
 				<div class="desc">
-					<p>Công nghệ Honda ECON</p> <i class="fa fa-chevron-right"></i>
+					<p>Công nghệ Honda ECON</p> <!-- -->
 				</div>
 			</div>
 			<div class="col-lg-6 col-md-6 block">
 				<div class="image">
 					<img class="tablet-img" id="" src="https://hondaxemay.com.vn/wp-content/uploads/2016/02/HondaJet_347.png" alt="" title="baotri-block6">							</div>
 				<div class="desc">
-					<p>HondaJet – Bay tới những Ước mơ</p> <i class="fa fa-chevron-right"></i>
+					<p>HondaJet – Bay tới những Ước mơ</p> <!-- -->
 				</div>
 			</div>
 		</div>
@@ -68,14 +68,14 @@
 				<div class="image">
 					<img class="tablet-img" id="" src="https://hondaxemay.com.vn/wp-content/uploads/2016/02/crvecotw.png" alt="" title="baotri-block3">							</div>
 				<div class="desc">
-					<p>Công nghệ Honda ECON</p> <i class="fa fa-chevron-right"></i>
+					<p>Công nghệ Honda ECON</p> <!-- -->
 				</div>
 			</div>
 			<div class="col-lg-6 col-md-6 block">
 				<div class="image">
 					<img class="tablet-img" id="" src="https://hondaxemay.com.vn/wp-content/uploads/2016/03/20131104085224_570x343_acf_cropped.png" alt="" title="Sử dụng phụ tùng chính hiệu">							</div>
 				<div class="desc">
-					<p>Vòng bi trên xe máy Honda</p> <i class="fa fa-chevron-right"></i>
+					<p>Vòng bi trên xe máy Honda</p> <!-- -->
 				</div>
 			</div>
 		</div>
@@ -84,7 +84,7 @@
 				<div class="image">
 					<img class="tablet-img" id="" src="https://hondaxemay.com.vn/wp-content/uploads/2016/02/HondaJet_347.png" alt="" title="baotri-block6">							</div>
 				<div class="desc">
-					<p>HondaJet – Bay tới những Ước mơ</p> <i class="fa fa-chevron-right"></i>
+					<p>HondaJet – Bay tới những Ước mơ</p> <!-- -->
 				</div>
 			</div>
 		</div>
